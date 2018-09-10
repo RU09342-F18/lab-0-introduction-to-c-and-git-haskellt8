@@ -1,4 +1,6 @@
 # math.c
+By: Thomas Haskell
+
 math.c includes the following math function:
 ```c
 int math(int num1, int num2, char Operator)
